@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+.container {
+	width: 100vw;
+	height: 500px;
+	background-color: #5199FF;
+	padding: 10px;
+	text-align: center;
+}
+.container a{
+	color: black;
+}
